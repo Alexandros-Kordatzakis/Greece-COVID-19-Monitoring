@@ -19,9 +19,13 @@ Patra,1,2020-03-11,-,-,General University Hospital of Patras,-,
 Other/Unknown,8,2020-03-11,-,-,-,-,
 Heraklion,1,2020-03-12,(M) Male,45,University Hospital of Heraklion,-,-
 Kozani,3,2020-03-12,(M) Male,-,General Hospital of Kastoria,-,-
+Other/Unknown,87,2020-03-13,-,-,-,-,-
+Other/Unknown,38,2020-03-14,-,-,-,-,-
+Other/Unknown,103,2020-03-14,-,-,-,-,-
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-Total:,103,,,,,,
-Deaths:,1,,,,,,
+Total:,331,,,,,,
+Deaths:,4,,,,,,
+Recovered:8
